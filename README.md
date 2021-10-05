@@ -4,3 +4,5 @@
 
 This version is more convenient for starting spamming 
 You need to enter all the values into the code, start the bot a couple of dozen times (1 time = 1 message per second), and then write the command to the chat - !Spam
+
+You need AminoLab (pip install AminoLab)
