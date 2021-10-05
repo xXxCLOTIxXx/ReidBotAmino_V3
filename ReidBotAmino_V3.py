@@ -1,6 +1,6 @@
 ﻿import AminoLab
 client = AminoLab.Client()
-client.auth(email="Your email", password="Your assword")
+client.auth(email="Your email", password="Your password")
 CHAT_CONST="chat id"
 NDC_CONST="com id"
 old_messages = ["fmsg"]
